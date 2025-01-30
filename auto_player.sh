@@ -1,5 +1,6 @@
 #!/bin/bash
-MUSIC_DIR="/Volumes/ESD-EPA"
+# specify your music directory here
+MUSIC_DIR=""
 
 while true
 do
